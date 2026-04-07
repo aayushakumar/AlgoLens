@@ -4,8 +4,6 @@
 
 AlgoLens turns any Python algorithm into an interactive, step-by-step visual execution replay. Paste code, click **Visualize**, and watch every variable mutation, pointer move, recursion call, and data-structure transformation unfold in real time — entirely in your browser, no backend required.
 
-Built as a portfolio project for learners, interview candidates, and educators who need more than reading a solution to truly understand it.
-
 ---
 
 ## Demo
